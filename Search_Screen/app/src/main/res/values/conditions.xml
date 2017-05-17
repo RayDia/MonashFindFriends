@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conditions">
+        <item>(No Filter)</item>
+        <item>first_name </item>
+        <item>surname</item>
+        <item>gender</item>
+        <item>study_mode</item>
+        <item>subrb</item>
+        <item>nationality</item>
+        <item>native_language</item>
+        <item>favoriate_sport</item>
+        <item>favoriate_movie</item>
+        <item>favoriate_unit</item>
+        <item>current_job</item>
+    </string-array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="41dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Unit Code"
+        android:id="@+id/UnitCode"
+        android:layout_weight="0.18" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="46dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Unit Name"
+        android:id="@+id/UnitName"
+        android:layout_weight="0.71" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="37dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Semester"
+        android:id="@+id/Semester"
+        android:layout_weight="0.11" />
+
+</LinearLayout>

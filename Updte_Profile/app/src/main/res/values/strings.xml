@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Updte_Profile</string>
+    <string name="profile">Profile</string>
+    <string name="nick_name">nick name</string>
+    <string name="sex">Sex</string>
+    <string name="Nick_name">Nick_name</string>
+</resources>
